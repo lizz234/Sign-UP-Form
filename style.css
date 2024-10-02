@@ -4,7 +4,7 @@
 }
 
 * {
-    font-family: 'Rustic-dyJl';
+    font-family: 'Rustic-dyJl', sans-serif;
     background-color: #f8e2c6;
     color: #972800;
 }
@@ -43,7 +43,6 @@ body {
     color: white;
     font-size: 60px;
     margin-left: 4px;
-    font-family: 'Rustic-dyJl';
 }
 
 img {
